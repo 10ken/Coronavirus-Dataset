@@ -1,3 +1,5 @@
+As of March 5, 2020
+
 # Coronavirus-Dataset
 -** Coronavirus Infectious Disease-19 (COVID-19) ** Reconstructed the information of domestic sponsors into CSV files for easy data analysis.
 
